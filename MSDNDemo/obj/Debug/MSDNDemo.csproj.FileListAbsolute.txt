@@ -1,0 +1,15 @@
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\bin\Debug\MSDNDemo.exe.config
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\bin\Debug\MSDNDemo.exe
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\bin\Debug\MSDNDemo.pdb
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\obj\Debug\MSDNDemo.csprojAssemblyReference.cache
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\obj\Debug\MSDNDemo.Form1.resources
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\obj\Debug\MSDNDemo.Properties.Resources.resources
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\obj\Debug\MSDNDemo.csproj.GenerateResource.cache
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\obj\Debug\MSDNDemo.csproj.CoreCompileInputs.cache
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\obj\Debug\MSDNDemo.csproj.CopyComplete
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\obj\Debug\MSDNDemo.exe
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\obj\Debug\MSDNDemo.pdb
+C:\Users\asael.silva\source\repos\MSDNDemo\MSDNDemo\obj\Debug\MSDNDemo.Detalhar.resources
